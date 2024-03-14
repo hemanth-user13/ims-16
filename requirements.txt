@@ -53,7 +53,5 @@ npm==0.1.1
 npx==0.1.1
 openai==1.14.0
 openpyxl==3.1.2
-pandas==2.2.1
-pillow==10.2.0
-psycopg2-binary==2.9.7
+
 
