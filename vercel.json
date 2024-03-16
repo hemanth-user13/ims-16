@@ -1,7 +1,6 @@
 {
   "functions": {
     "api": {
-      "handler": "IMS/wsgi.application",
       "runtime": "python3.9"
     }
   },
