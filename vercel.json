@@ -1,7 +1,7 @@
 {
   "functions": {
     "api": {
-      "runtime": "python3.9"
+      "runtime": "python3.9@1.0.0"
     }
   },
   "routes": [
@@ -15,3 +15,4 @@
     }
   ]
 }
+
